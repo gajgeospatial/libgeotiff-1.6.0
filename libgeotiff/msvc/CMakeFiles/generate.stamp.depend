@@ -1,0 +1,32 @@
+# CMake generation dependency list for this directory.
+C:/Development/op3d_active/libgeotiff-1.6.0/libgeotiff/CMakeLists.txt
+C:/Development/op3d_active/libgeotiff-1.6.0/libgeotiff/cmake/FindPROJ.cmake
+C:/Development/op3d_active/libgeotiff-1.6.0/libgeotiff/cmake/geo_config.h.in
+C:/Development/op3d_active/libgeotiff-1.6.0/libgeotiff/msvc/CMakeFiles/3.14.3/CMakeCCompiler.cmake
+C:/Development/op3d_active/libgeotiff-1.6.0/libgeotiff/msvc/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake
+C:/Development/op3d_active/libgeotiff-1.6.0/libgeotiff/msvc/CMakeFiles/3.14.3/CMakeRCCompiler.cmake
+C:/Development/op3d_active/libgeotiff-1.6.0/libgeotiff/msvc/CMakeFiles/3.14.3/CMakeSystem.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/CheckIncludeFiles.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/FindJPEG.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/FindTIFF.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/Platform/WindowsPaths.cmake

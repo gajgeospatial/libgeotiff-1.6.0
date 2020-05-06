@@ -1,0 +1,12 @@
+C:/Development/op3d_active/libgeotiff-1.6.0/libgeotiff/msvc/CMakeFiles/geotiff_library.dir
+C:/Development/op3d_active/libgeotiff-1.6.0/libgeotiff/msvc/CMakeFiles/INSTALL.dir
+C:/Development/op3d_active/libgeotiff-1.6.0/libgeotiff/msvc/CMakeFiles/ALL_BUILD.dir
+C:/Development/op3d_active/libgeotiff-1.6.0/libgeotiff/msvc/CMakeFiles/ZERO_CHECK.dir
+C:/Development/op3d_active/libgeotiff-1.6.0/libgeotiff/msvc/libxtiff/CMakeFiles/xtiff.dir
+C:/Development/op3d_active/libgeotiff-1.6.0/libgeotiff/msvc/libxtiff/CMakeFiles/INSTALL.dir
+C:/Development/op3d_active/libgeotiff-1.6.0/libgeotiff/msvc/bin/CMakeFiles/INSTALL.dir
+C:/Development/op3d_active/libgeotiff-1.6.0/libgeotiff/msvc/bin/CMakeFiles/makegeo.dir
+C:/Development/op3d_active/libgeotiff-1.6.0/libgeotiff/msvc/bin/CMakeFiles/geotifcp.dir
+C:/Development/op3d_active/libgeotiff-1.6.0/libgeotiff/msvc/bin/CMakeFiles/listgeo.dir
+C:/Development/op3d_active/libgeotiff-1.6.0/libgeotiff/msvc/bin/CMakeFiles/applygeo.dir
+C:/Development/op3d_active/libgeotiff-1.6.0/libgeotiff/msvc/cmake/CMakeFiles/INSTALL.dir
